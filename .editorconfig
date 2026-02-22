@@ -52,6 +52,9 @@ indent_size = unset # Allow user-defined tab width
 indent_style = tab
 indent_size = unset # Allow user-defined tab width
 
+[CMakeLists.txt]
+indent_size = 4
+
 [justfile]
 indent_size = 4
 
