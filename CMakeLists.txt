@@ -13,7 +13,6 @@ else()
 endif()
 
 # 3. Define your executables
-# Now that they are .cpp, CMake knows exactly what to do
 add_executable(server src/server.cpp)
 add_executable(client src/client.cpp)
 
