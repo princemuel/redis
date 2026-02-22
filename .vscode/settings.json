@@ -1,0 +1,17 @@
+{
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "*.css": "tailwindcss",
+    "*.jsx": "javascriptreact",
+    "*.tsx": "typescriptreact",
+    ".env": "dotenv",
+    ".env*": "dotenv",
+    "*.xsl": "xslt",
+    "*.mdoc": "markdown",
+    "stdexcept": "cpp",
+    "mutex": "cpp",
+    "hello_world.h": "c",
+    "*.asm": "asm-intel-x86-generic",
+    "stdio.h": "c"
+  }
+}
